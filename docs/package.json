@@ -1,0 +1,19 @@
+{
+  "name": "technical writing page",
+  "version": "0.0.1",
+  "description": "null",
+  "main": "index.js",
+  "authors": {
+    "name": "jay",
+    "email": "yinzaihecode@gmail.com"
+  },
+  "repository": "null/technical writing page",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
