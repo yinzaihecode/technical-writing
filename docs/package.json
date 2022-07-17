@@ -1,13 +1,13 @@
 {
-  "name": "technical writing page",
+  "name": "technical-writing",
   "version": "0.0.1",
-  "description": "null",
+  "description": "",
   "main": "index.js",
   "authors": {
-    "name": "jay",
-    "email": "yinzaihecode@gmail.com"
+    "name": "",
+    "email": ""
   },
-  "repository": "null/technical writing page",
+  "repository": "/technical-writing",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
